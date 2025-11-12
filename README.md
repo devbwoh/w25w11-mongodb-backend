@@ -16,3 +16,8 @@ https://nano5.notion.site/MongoDB-229daf211d4281baa4c6e1ea7f02feb9?source=copy_l
 
 https://zrr.kr/LAfCKJ
 
+
+<img width="640" alt="image" src="https://github.com/user-attachments/assets/1ffa785a-f8fb-4271-a755-96d911e228cc" />
+
+
+<img width="640" alt="image" src="https://github.com/user-attachments/assets/2beb515c-2aee-4d7d-b55a-4b7bf405ce99" />
