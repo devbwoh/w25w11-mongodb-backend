@@ -12,10 +12,19 @@ https://zrr.kr/LZSZri
 
 <img width="150" alt="image" src="https://github.com/user-attachments/assets/dd136e2d-8329-4e9f-ae15-6af99e901a45" />
 
-https://nano5.notion.site/MongoDB-229daf211d4281baa4c6e1ea7f02feb9?source=copy_link
+https://nano5.notion.site/Backend-229daf211d4281baa4c6e1ea7f02feb9?source=copy_link
 
 https://zrr.kr/LAfCKJ
 
+# Week 12. REST API
+
+<img width="150" alt="image" src="https://github.com/user-attachments/assets/36168216-d2c1-4452-b8eb-3a5b98e609da" />
+
+https://nano5.notion.site/REST-API-2acdaf211d42809791d1d6ecd2b01187?source=copy_link
+
+https://zrr.kr/BK2XP1
+
+---
 
 <img width="640" alt="image" src="https://github.com/user-attachments/assets/1ffa785a-f8fb-4271-a755-96d911e228cc" />
 
