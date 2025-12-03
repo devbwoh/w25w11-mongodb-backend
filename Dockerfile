@@ -13,7 +13,6 @@ COPY gradle gradle
 
 # Gradle 설정 및 소스 코드 복사
 COPY build.gradle .
-COPY settings.gradle .
 COPY src src
 
 # 빌드 실행
