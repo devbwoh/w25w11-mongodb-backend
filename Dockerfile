@@ -20,7 +20,7 @@ COPY src src
 # (권장): 의존성을 다운로드하는 Task와 실제 빌드 Task를 분리하면 캐시 활용에 유리합니다.
 RUN chmod +x ./gradlew
 RUN ./gradlew dependencies
-RUN ./gradlew bootJar
+RUN ./gradlew bootJar --no-daemon --refresh-dependencies
 # bootJar로 실행하면 build/libs 폴더에 실행 가능한 JAR 파일이 생성됩니다.
 
 # =============================================================
