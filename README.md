@@ -30,3 +30,12 @@ https://zrr.kr/BK2XP1
 
 
 <img width="640" alt="image" src="https://github.com/user-attachments/assets/2beb515c-2aee-4d7d-b55a-4b7bf405ce99" />
+
+
+# Week 14. Deploy
+
+<img width="150" alt="image" src="https://github.com/user-attachments/assets/95b5a365-c931-4e12-9726-3dca0551ac9d" />
+
+https://nano5.notion.site/Deployment-229daf211d428191ab34ec4d562c6f0a?source=copy_link
+
+https://zrr.kr/DnwvRW
